@@ -1,1 +1,11 @@
+<p>To insert a interactive R cell in the <code>content.html</code> file of a page, you can use the following syntax:</p>
 
+<pre><code class="language-html">&lt;r-cell&gt;# This is an R cell
+print("Hello, Atomic Learning!")&lt;/r-cell&gt;</code></pre>
+
+<p>This will render as the following interactive R cell:</p>
+
+<r-cell># This is an R cell
+print("Hello, Atomic Learning!")</r-cell>
+
+<p>When defining a R cell, it is advised to begin the R code immediately after the opening <code class="language-html">&lt;r-cell&gt;</code> tag and to include the closing <code class="language-html">&lt;/r-cell&gt;</code> tag immediately after the end of the code. It is also advised not to indent code by any spaces or tabs, unless this is required for the syntax of the R code itself (e.g. within functions or loops). Finally, it is recommended to use the closing <code class="language-html">&lt;/r-cell&gt;</code> tag on a new line immediately after the last line of R code. These practices help ensure that the R code in the cell does not have any unnecessary leading or trailing blank lines or spaces.</p>

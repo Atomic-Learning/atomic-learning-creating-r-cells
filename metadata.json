@@ -1,22 +1,22 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Atomic Learning: Creating R Cells",
+    "slug": "atomic-learning-creating-r-cells",
+    "description": "A guide of how to add interactive R cells to a content page in the Atomic Learning platform.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning",
+        "r",
+        "html"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "html-tags",
+        "atomic-learning-r-cells",
+        "atomic-learning-content-file"
     ],
     "related": [
-        "",
-        ""
+        "atomic-learning-creating-py-cells"
     ]
 }
