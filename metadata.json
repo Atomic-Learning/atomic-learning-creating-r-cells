@@ -10,9 +10,8 @@
         "r",
         "html"
     ],
-    "duration": 2,
+    "duration": 1,
     "prerequisites": [
-        "html-tags-elements",
         "atomic-learning-r-cells",
         "atomic-learning-content-file",
         "atomic-learning-programming-software-versions"
