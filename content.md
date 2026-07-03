@@ -1,4 +1,4 @@
-To insert a interactive R cell in the `content.html` file of a page, you can use the following syntax:
+To insert a interactive R cell in the `content.md` file of a page, you can use the following syntax:
 
 ```html
  ```r-cell
