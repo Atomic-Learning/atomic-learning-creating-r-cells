@@ -7,14 +7,14 @@
     ],
     "tags": [
         "atomic-learning",
-        "r",
-        "html"
+        "r"
     ],
     "duration": 1,
     "prerequisites": [
         "atomic-learning-r-cells",
         "atomic-learning-content-file",
-        "atomic-learning-programming-software-versions"
+        "atomic-learning-programming-software-versions",
+        "markdown-code-blocks"
     ],
     "related": [
         "atomic-learning-creating-python-cells"
